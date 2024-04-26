@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @jrmfrbg
+- 👀 I’m interested in C#, Blazor, networks
+- 🌱 I’m currently learning web development
+- 📫 How to reach me: Insta: jrm.frbg
